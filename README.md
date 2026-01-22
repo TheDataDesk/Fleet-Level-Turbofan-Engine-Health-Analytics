@@ -25,13 +25,6 @@ The dataset simulates multiple engine units over time (cycles), capturing sensor
 
 - Provide insights that could inform maintenance planning or anomaly investigation.
 
-## Deliverables
-
-✔ Cleaned and validated analytics dataset
-✔ Python data processing pipeline
-✔ SQL queries for analytical table generation
-✔ Visual dashboard (e.g., using Plotly or Streamlit)
-✔ Documented README with insights and results
 
 ## How to Run
 
@@ -43,11 +36,6 @@ Install dependencies
 
 pip install -r requirements.txt
 
-Run the data pipeline
 
-python src/load_data.py
 
-Launch dashboard
-
-streamlit run dashboard/app.py
  
